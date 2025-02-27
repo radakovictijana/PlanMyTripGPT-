@@ -1,0 +1,139 @@
+[
+    {
+      "id": 1,
+      "naziv": "Atina",
+      "picture": "atina.jpg",
+      "opis": "Najstariji savremeni grad na svetu, kolevka demokratije, filozofije i Olimpijskih igara, bezbroj antičkih tvorevina i umetničkih dela, mesto gde se bogata istorija susreće sa modernom Atinom, velikim, kosmopolitskim gradom, uzbudljivog noćnog života, dobrog šopinga i slasne mediteranske kuhinje.",
+      "datum_polaska": "23.04.2025.",
+      "datum_dolaska": "27.04.2025.",
+      "cena":"250e",
+      "aktivnosti": [
+        {
+          "aktivnost_id": 1,
+          "dan": "1",
+          "naziv_aktivnosti": "Obilazak Partenona"
+          
+        },
+        {
+          "aktivnost_id": 2,
+          "dan": "2",
+          "naziv_aktivnosti": "Nocna zurka"
+        },
+        {
+          "aktivnost_id": 3,
+          "dan": "3",
+          "naziv_aktivnosti": "Obilazak muzeja"
+        },
+        {
+          "aktivnost_id": 4,
+          "dan": "4",
+          "naziv_aktivnosti": "Slobodan dan"
+        }
+      ]
+    },
+    {
+     "id": 2,
+      "naziv": "Rim",
+      "picture": "rim.jpg",
+      "opis": "Rim je glavni grad Italije i regiona Lacio, ali i najveći i najbrojniji grad u Italiji sa oko 2,7 miliona stanovnika. Prema legendi, grad su osnovali Romul i Rem 21. aprila 753 godine p.n.e. pa sa pravom nosi ime VEČNI GRAD.",
+      "datum_polaska": "23.04.2025.",
+      "datum_dolaska": "27.04.2025.",
+      "cena":"250e",
+      "aktivnosti": [
+        {
+          "aktivnost_id": 1,
+          "dan": "1",
+          "naziv_aktivnosti": "Obilazak Partenona"
+          
+        },
+        {
+          "aktivnost_id": 2,
+          "dan": "2",
+          "naziv_aktivnosti": "Nocna zurka"
+        },
+        {
+          "aktivnost_id": 3,
+          "dan": "3",
+          "naziv_aktivnosti": "Obilazak muzeja"
+        },
+        {
+          "aktivnost_id": 4,
+          "dan": "4",
+          "naziv_aktivnosti": "Slobodan dan"
+        }
+      ]
+    },
+    {
+    "id": 3,
+      "naziv": "Istanbul",
+      "picture": "istanbul.png",
+      "opis": "Istanbul – grad koji leži na dva kontinenta, spoj istoka i zapada, Evrope i Azije, sa svojom raskošnom kulturnom ostavštinom, nikad ne prestaje da oduševljava. Uobličile su ga četiri snažne civilizacije: grčka, rimska, vizantijska i osmanlijska. Kroz istoriju je nosio različita imena: Vizantion, Novi Rim, Konstantinopolj, Carigrad i Istanbul. Danas je Istanbul velegrad, sa preko 13 miliona stanovnika koji žive i rade na dva kontinenta. Moderni Trg Taksim ili kvartovi Bejoglu i Osmanbej, će učiniti da se osećate kao u bilo kojoj svetskoj metropoli, dok ćete se šetajući Sultanahmet trgom neizbežno vratiti par stotina ili čak hiljada godina unazad. Novo i staro, Orijent i Evropa, islam i hrišćanstvo – nigde ih nećete naći ovako isprepletene i neraskidivo povezane kao u Istanbulu.",
+      "datum_polaska": "23.04.2025.",
+      "datum_dolaska": "27.04.2025.",
+      "aktivnosti": [
+        {
+          "aktivnost_id": 1,
+          "dan": "1",
+          "naziv_aktivnosti": "Obilazak Partenona"
+          
+        },
+        {
+          "aktivnost_id": 2,
+          "dan": "2",
+          "naziv_aktivnosti": "Nocna zurka"
+        },
+        {
+          "aktivnost_id": 3,
+          "dan": "3",
+          "naziv_aktivnosti": "Obilazak muzeja"
+        },
+        {
+          "aktivnost_id": 4,
+          "dan": "4",
+          "naziv_aktivnosti": "Slobodan dan"
+        }
+      ]
+    },{
+      "id": 4,
+       "naziv": "Riga",
+       "picture": "riga.jpg",
+       "opis": "Riga je glavni grad i najveće gradsko naselje Letonije. Grad se nalazi blizu ušća reke Daugave u Baltičko more. Grad Riga čini i zasebnu opštinu u Letoniji. Najveći je grad u Baltičkim zemljama. Stari grad Rige nalazi se na Uneskovoj listi svetske baštine, jer ima najveću zbirku građevina u stilu secesije (jugendstila) u Evropi. Predeo oko grada je ravničarski i močvaran. Oko grada postoje i mnoga mala jezera ledničkog porekla, danas često u sklopu velikih gradskih parkova.",
+       "datum_polaska": "23.04.2025.",
+       "datum_dolaska": "27.04.2025.",
+       "aktivnosti": [
+        
+       ]
+     },{
+      "id": 5,
+       "naziv": "Barselona",
+       "picture": "barselona.jpg",
+       "opis": "Predstavljamo vam jedan od najposećenijih gradova u Evropi i najposećeniju turističku destinaciju u Španiji. Barselona je mesto čija arhitektura hiljadama godina oduševljava posetioce, ali koja nudi i obilje drugog turističkog sadržaja. Kako biste na pravi način istražili ponudu grada i sve njene atrakcije, za vas smo napravili kompletan turistički vodič kroz Barselonu. U njemu ćete pronaći sve turističke informacije o sadržajima, gradskim turama, restoranima, smeštajnim jedinicama, te otkriti savete koji će vam pomoći da za što manje novca uživate u kompletnoj gradskoj ponudi. Pripremite se za savršeno iskustvo! Pođite na put kroz najlepšu arhitekturu sveta.",
+       "datum_polaska": "23.04.2025.",
+       "datum_dolaska": "27.04.2025.",
+       "aktivnosti": [
+        {
+          "aktivnost_id": 1,
+          "dan": "1",
+          "naziv_aktivnosti": "Obilazak Partenona"
+          
+        },
+        {
+          "aktivnost_id": 2,
+          "dan": "2",
+          "naziv_aktivnosti": "Nocna zurka"
+        },
+        {
+          "aktivnost_id": 3,
+          "dan": "3",
+          "naziv_aktivnosti": "Obilazak muzeja"
+        },
+        {
+          "aktivnost_id": 4,
+          "dan": "4",
+          "naziv_aktivnosti": "Slobodan dan"
+        }
+      ]
+     }
+  ]
+  
+  
